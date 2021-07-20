@@ -20,6 +20,6 @@ stack.push(a[i]);
 }
 public static void display()
 {
-System.out.println(stack.elements(a[i]));
+System.out.println(stack);
 }
 }
